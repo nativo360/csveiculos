@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = CS Veiculos 
+
+## Media
+
+### Title
+panorama_9C6A8B2E_9779_E335_41D0_2B1DBEB85251.label = Laterial carro 1
+panorama_9C71CD21_977E_672C_41DC_30E140B64A2F.label = teto do carro
+panorama_9C71D7FD_977E_2314_41CC_DEA3DD84D226.label = lateral do carro 2
+panorama_9C71F9E2_977E_2F2C_41C3_5A5521C24780.label = Traseira do carro
+panorama_9C721498_977E_251C_41D5_D5C680127446.label = centro calçada lado direito
+panorama_9C721AD0_977E_6D6C_41E1_4E2205F87637.label = porta mala
+panorama_9C722812_977E_6CED_41D5_9B086C0F4D55.label = calçcada esquerda
+panorama_9C723130_977F_FF2D_41D2_6321AC3332A0.label = dentro da loja
+panorama_9C723665_977E_2534_41C7_CC623757D0D1.label = centro da calçada meio porta esquerda
+panorama_9C72395A_977E_EF1D_41D8_FD7728D7C0E9.label = dentro do carro
+panorama_9C723B0B_977E_ECF3_41CA_A33A9497DDB2.label = dentro porta mala
+panorama_9C726968_977E_6F3D_41E2_9ACCA0FB3870.label = calçada centro
+panorama_9C72AB64_977E_2334_41D1_0B0B093AC9AE.label = calçada direita
+panorama_9C72CE7A_977E_251D_41D5_69D3508EB943.label = motor do carro
+panorama_9C73CF2C_977F_E334_41D4_23CA8108502C.label = fundo da loja
